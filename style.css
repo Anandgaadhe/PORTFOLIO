@@ -285,15 +285,15 @@ hr
     }
     25%,75%
     {
-        content: "graphics designer";
+        content: "database devloper";
     }
     50%,75%
     {
-        content: "android developer";
+        content: "python web devlopment";
     }
     75%,100%
     {
-        content: "Photo Grapher";
+        content: "Prompt engineer";
     }
 }
 @media (max-width:431px)
